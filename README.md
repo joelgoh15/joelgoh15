@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  </h1> 
 
 <p>
-  I'm Joel Goh Chong Hui. I would like to welcome you to my GitHub profile. Do visit my portfolio website at 
+  I'm Joel Goh Chong Hui. I would like to welcome you to my GitHub profile. Do visit my portfolio website 
   via the web link on the left.
 </p>
 
