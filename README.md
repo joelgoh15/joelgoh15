@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+<!-- -------------------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------------------- -->
+<!-- edit 1 -->
+
 <h1>
   Hi, I'm Joel Goh C.H! <br/>
   <i>Web Developer & .Net Developer</i>
@@ -22,9 +28,11 @@ Here are some ideas to get you started:
 
 <p>
   I'm Joel Goh Chong Hui. I would like to welcome you to my GitHub profile. Do visit my portfolio website at 
-  <a href="joelgoh15.github.io" target="blank"><u>joelgoh15.github.io</u></a>.
+  via the web link on the left.
 </p>
- 
+
+
+<!-- ##Hi, I'm Joel Goh C.H! -->
 
 
 
